@@ -1,0 +1,31 @@
+.editor-container{
+  padding:  50px;
+}
+
+.editor-header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.title-name{
+  margin: 0;
+}
+
+.save{
+  padding: 8px 16px;
+  background-color: transparent;
+  color: #000;
+  border-radius: 4px;
+  box-shadow: 5px 5px 0px #000;
+  margin-bottom: 16px;
+  cursor: pointer;
+}
+
+.text-editor{
+  border: 1px solid #3b82f6;
+  padding: 16px;
+  height: 70dvh;
+}
+
+
